@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/SemRushtest/static/js/main.c5da2fd2.chunk.js",
-    "main.js.map": "/SemRushtest/static/js/main.c5da2fd2.chunk.js.map",
-    "runtime-main.js": "/SemRushtest/static/js/runtime-main.03160730.js",
-    "runtime-main.js.map": "/SemRushtest/static/js/runtime-main.03160730.js.map",
-    "static/css/2.6f338a1f.chunk.css": "/SemRushtest/static/css/2.6f338a1f.chunk.css",
-    "static/js/2.f656df81.chunk.js": "/SemRushtest/static/js/2.f656df81.chunk.js",
-    "static/js/2.f656df81.chunk.js.map": "/SemRushtest/static/js/2.f656df81.chunk.js.map",
-    "index.html": "/SemRushtest/index.html",
-    "static/css/2.6f338a1f.chunk.css.map": "/SemRushtest/static/css/2.6f338a1f.chunk.css.map",
-    "static/js/2.f656df81.chunk.js.LICENSE.txt": "/SemRushtest/static/js/2.f656df81.chunk.js.LICENSE.txt"
+    "main.js": "/semrushTest/static/js/main.c5da2fd2.chunk.js",
+    "main.js.map": "/semrushTest/static/js/main.c5da2fd2.chunk.js.map",
+    "runtime-main.js": "/semrushTest/static/js/runtime-main.aaca302d.js",
+    "runtime-main.js.map": "/semrushTest/static/js/runtime-main.aaca302d.js.map",
+    "static/css/2.6f338a1f.chunk.css": "/semrushTest/static/css/2.6f338a1f.chunk.css",
+    "static/js/2.edfc368b.chunk.js": "/semrushTest/static/js/2.edfc368b.chunk.js",
+    "static/js/2.edfc368b.chunk.js.map": "/semrushTest/static/js/2.edfc368b.chunk.js.map",
+    "index.html": "/semrushTest/index.html",
+    "static/css/2.6f338a1f.chunk.css.map": "/semrushTest/static/css/2.6f338a1f.chunk.css.map",
+    "static/js/2.edfc368b.chunk.js.LICENSE.txt": "/semrushTest/static/js/2.edfc368b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.03160730.js",
+    "static/js/runtime-main.aaca302d.js",
     "static/css/2.6f338a1f.chunk.css",
-    "static/js/2.f656df81.chunk.js",
+    "static/js/2.edfc368b.chunk.js",
     "static/js/main.c5da2fd2.chunk.js"
   ]
 }
